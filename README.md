@@ -1,2 +1,2 @@
 # dev-wiki
-Wiki for Eureka! Clinical developer information
+Wiki for general Eureka! Clinical Information that is not specific to a code repository.
