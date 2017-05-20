@@ -36,7 +36,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-02-25 20:35:42 +0000</string>
+	<string>2017-05-20 14:28:12 +0000</string>
 	<key>Modifier</key>
 	<string>Andrew Post</string>
 	<key>MovementHandleVisible</key>
@@ -2147,7 +2147,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{-47.557426, 89.566558999999998}, {108.76056, 33.645710000000001}}</string>
+					<string>{{-69.959448859597188, 87.504435000000001}, {153.56460571919439, 33.645710000000001}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2197,7 +2197,7 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs28 \cf0 Derived data}</string>
+\f0\b\fs28 \cf0 Abstracted summary}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -2296,7 +2296,7 @@
 	<key>WindowInfo</key>
 	<dict>
 		<key>Frame</key>
-		<string>{{190, 127}, {1518, 778}}</string>
+		<string>{{248, 346}, {1518, 778}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
